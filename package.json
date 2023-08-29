@@ -1,6 +1,6 @@
 {
   "name": "@hackbg/protobufjs-esm",
-  "version": "6.11.4",
+  "version": "6.11.4-patch.1",
   "versionScheme": "~",
   "description": "Protocol Buffers for JavaScript (& TypeScript).",
   "author": "Daniel Wirtz <dcode+protobufjs@dcode.io>",
@@ -16,7 +16,7 @@
   ],
   "main": "index.js",
   "exports": {
-    ".": "index.js",
+    ".": "./index.js",
     "./light": "./light.js",
     "./minimal": "./minimal.js"
   },
